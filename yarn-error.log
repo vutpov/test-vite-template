@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Thary\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Thary\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Thary\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\xampp\php;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Dart\dart-sdk\bin;C:\apache-maven\bin;C:\Program Files\PuTTY;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Kubernetes\Minikube;C:\minikube;C:\Program Files\nodejs;D:\software\kompose;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\Thary\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\heroku\bin;C:\flutter\bin;C:\Users\Thary\AppData\Local\Android\Sdk\platform-tools;C:\Users\Thary\AppData\Local\Android\Sdk\tools;C:\Users\Thary\AppData\Local\Android\Sdk\tools\bin;C:\Users\Thary\.dotnet\tools;C:\Users\Thary\AppData\Local\Programs\Python\Python39;C:\Users\Thary\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\Thary\AppData\Local\Microsoft\WindowsApps;C:\Program Files\PostgreSQL\12\bin;D:\flutter\flutter_windows_3.3.1-stable\bin;C:\Users\Thary\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\bin;C:\Program Files\Git\mingw64\bin;C:\Users\Thary\AppData\Roaming\npm;D:\web\kompose.exe;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\Thary\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137150:13)
+      at Interface.emit (node:events:513:28)
+      at Interface._ttyWrite (node:readline:1085:16)
+      at ReadStream.onkeypress (node:readline:291:10)
+      at ReadStream.emit (node:events:513:28)
+      at emitKeys (node:internal/readline/utils:357:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:internal/readline/emitKeypressEvents:61:36)
+      at ReadStream.emit (node:events:513:28)
+      at addChunk (node:internal/streams/readable:315:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
